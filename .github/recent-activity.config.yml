@@ -1,6 +1,5 @@
 settings:
-  #username: "Pozzi" # Replace with your username or comment out this line
-  #commit_msg: "⚡ Update README with the recent activity"
+
   max_lines: 10
   readme_file: "./README.md"
   disabled_events:
@@ -11,8 +10,7 @@ settings:
     text: "Last Updated: {DATE}"
     format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
     text: '<p align="center">Last refresh: <b>{DATE} IST</b>'
-  #commit_name: "readme-bot"
-  #commit_email: "41898282+github-actions[bot]@users.noreply.github.com"
+
 messages:
   comments: "💬 Commented on {ID} in {REPO}"
   issue_opened: "❗️ Opened issue {ID} in {REPO}"
