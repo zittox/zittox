@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=zittox&style=for-the-badge&color=brightgreen)
 
 ##
-At the moment working in a telegram bot version of harrypython's ItsaGramLive, the [ItsaGramLiveBot](https://github.com/zittox/telegrambot-itsagramlive) - still in test but it's finally [ONLINE](https://t.me/ItsaGramLiveBot)
+At the moment working in a telegram bot version of harrypython's ItsaGramLive, the [ItsaGramLiveBot](https://github.com/zittox/telegrambot-itsagramlive) - due to server costs the bot is [OFFLINE](https://t.me/ItsaGramLiveBot)
 ##
 Chek out my Brazilian lottery bot in telegram by clicking the link [MegaSenaBRbot](https://t.me/MegaSenaBRbot) 
 ##
