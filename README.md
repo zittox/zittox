@@ -18,35 +18,34 @@ Contact me in [![telegram badge](https://img.shields.io/badge/-Telegram-black?lo
 
 
 
+---
+markmap:
+maxWidth: 300
+colorFreezeLevel: 2
+---
 
-  ---
-        markmap:
-          maxWidth: 300
-          colorFreezeLevel: 2
-        ---
+# markmap
 
-        # markmap
+## Links
 
-        ## Links
+- <https://markmap.js.org/>
+- [GitHub](https://github.com/markmap/markmap)
 
-        - <https://markmap.js.org/>
-        - [GitHub](https://github.com/markmap/markmap)
+## Related
 
-        ## Related
+- [coc-markmap](https://github.com/markmap/coc-markmap)
+- [gatsby-remark-markmap](https://github.com/markmap/gatsby-remark-markmap)
 
-        - [coc-markmap](https://github.com/markmap/coc-markmap)
-        - [gatsby-remark-markmap](https://github.com/markmap/gatsby-remark-markmap)
+## Features
 
-        ## Features
-
-        - links
-        - **inline** ~~text~~ *styles*
-        - multiline
-          text
-        - `inline code`
-        -
-            ```js
-            console.log('code block');
-            ```
-        - Katex - $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
-        - This is a very very very very very very very very very very very very very very very long line.
+- links
+- **inline** ~~text~~ *styles*
+- multiline
+  text
+- `inline code`
+-
+  ```js
+    console.log('code block');
+  ```
+- Katex - $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
+- This is a very very very very very very very very very very very very very very very long line.
